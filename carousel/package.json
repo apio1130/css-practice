@@ -1,0 +1,11 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "carousel practice",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "carousel practice"
+  },
+  "author": "kjkim",
+  "license": "ISC"
+}
