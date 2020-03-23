@@ -1,0 +1,12 @@
+{
+  "name": "scroll-indicator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Scroll Indicator Test"
+  },
+  "keywords": [],
+  "author": "kjkim",
+  "license": "ISC"
+}
